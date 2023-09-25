@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://raw.githubusercontent.com/jhonatanjk125/weather-api/master/6.png">
-        <img src="https://raw.githubusercontent.com/jhonatanjk125/weather-api/master/6.png" />
+        <img src="https://raw.githubusercontent.com/jhonatanjk125/weather-api/master/6.png" width="300" height="300" />
     </a>
 </p>
 
