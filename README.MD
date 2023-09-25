@@ -7,4 +7,4 @@
 
 
 <h2 align="center">What is this project?</h2>
-<p> A REST API built with Python and Flask to serve historical weather data for various cities </p>.
+<p> A REST API built with Python and Flask to serve historical weather data for various cities. </p>.
