@@ -6,4 +6,4 @@
 
 <h1 align="center">Weather API</h1>
 # What is this project?
-A REST API built with Python and Flask to serve historical weather data for various cities.
+## A REST API built with Python and Flask to serve historical weather data for various cities.
